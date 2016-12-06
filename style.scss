@@ -1,0 +1,51 @@
+.containerimg {
+  margin: 0;
+  padding: 0 !important;
+  width: 100%;
+  background-color: #D1DBDD;
+
+}
+
+.leftcontainer {
+  float: left;
+  width: 50%;
+  p {
+    padding-top:25px;
+    font-size:17px;
+    text-align:left;
+    line-height:130%;}
+}
+
+.rightcontainer {
+  padding-top:25px;
+  float: right;
+  width: 50%;
+}
+
+.container {
+  color:black;
+}
+
+.navbar {
+  background-color:black;
+}
+
+.navbar-brand {
+  font-size: 25px;
+}
+
+.follow {
+  background-image: url(winter.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;}
+
+.latest {
+    background-image: url(victory.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;}
+
+iframe {
+  width: 500px;
+  margin-left: 50%;
+  margin-bottom: 10%;
+}
